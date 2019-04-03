@@ -1,12 +1,12 @@
 {
-    "name": "prateekkarki/module-cmsbanner",
+    "name": "biren/module-cmsbanner",
     "description": "Magento 2 extension for adding banners to cms pages",
     "type": "magento2-module",
     "license": "OSL-3.0",
     "authors": [
         {
-            "email": "pratiek.karki@gmail.com",
-            "name": "Prateek Karki"
+            "email": "birenp@gmail.com",
+            "name": "Biren Patel"
         }
     ],
     "keywords": ["magento2", "cms", "banner"],
