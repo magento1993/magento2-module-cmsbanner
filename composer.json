@@ -1,5 +1,5 @@
 {
-    "name": "biren/module-cmsbanner",
+    "name": "birencms/module-cmsbanner",
     "description": "Magento 2 extension for adding banners to cms pages",
     "type": "magento2-module",
     "license": "OSL-3.0",
